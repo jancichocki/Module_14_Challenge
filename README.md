@@ -8,7 +8,10 @@ This project aims to enhance an existing algorithmic trading system by integrati
 
 The baseline model was established using an SVC classifier model. It was trained on a dataset comprising historical OHLCV (Open, High, Low, Close, Volume) data of emerging markets and made predictions based on the testing data. The classification report for the SVC model indicated [insert key metrics: accuracy, precision, recall, F1-score, etc.].
 
-A cumulative return plot comparing actual returns vs. strategy returns illustrates the model's ability to capture market trends effectively. [Include PNG image of the plot].
+A cumulative return plot comparing actual returns vs. strategy returns illustrates the model's ability to capture market trends effectively.
+
+## Baseline Graph
+![Baseline Graph](https://github.com/jancichocki/Module_14_Challenge/blob/main/cumulative_returns_short4_long100.png)
 
 ## Tuning the Trading Algorithm
 
