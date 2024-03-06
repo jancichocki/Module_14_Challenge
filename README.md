@@ -6,7 +6,52 @@ This project aims to enhance an existing algorithmic trading system by integrati
 
 ## Baseline Performance
 
-The baseline model was established using an SVC classifier model. It was trained on a dataset comprising historical OHLCV (Open, High, Low, Close, Volume) data of emerging markets and made predictions based on the testing data. The classification report for the SVC model indicated [insert key metrics: accuracy, precision, recall, F1-score, etc.].
+The baseline model was established using an SVC classifier model. It was trained on a dataset comprising historical OHLCV (Open, High, Low, Close, Volume) data of emerging markets and made predictions based on the testing data. The classification report for the SVC model indicated:
+
+<table>
+    <tr>
+        <th></th>
+        <th>Precision</th>
+        <th>Recall</th>
+        <th>F1-score</th>
+        <th>Support</th>
+    </tr>
+    <tr>
+        <td><strong>-1.0</strong></td>
+        <td>0.43</td>
+        <td>0.04</td>
+        <td>0.07</td>
+        <td>1804</td>
+    </tr>
+    <tr>
+        <td><strong>1.0</strong></td>
+        <td>0.56</td>
+        <td>0.96</td>
+        <td>0.71</td>
+        <td>2288</td>
+    </tr>
+    <tr>
+        <td><strong>Accuracy</strong></td>
+        <td></td>
+        <td></td>
+        <td>0.55</td>
+        <td>4092</td>
+    </tr>
+    <tr>
+        <td><strong>Macro Avg</strong></td>
+        <td>0.49</td>
+        <td>0.50</td>
+        <td>0.39</td>
+        <td>4092</td>
+    </tr>
+    <tr>
+        <td><strong>Weighted Avg</strong></td>
+        <td>0.50</td>
+        <td></td>
+        <td>0.43</td>
+        <td>4092</td>
+    </tr>
+</table>
 
 A cumulative return plot comparing actual returns vs. strategy returns illustrates the model's ability to capture market trends effectively.
 
