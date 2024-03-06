@@ -70,7 +70,7 @@ Adjusting the training dataset size had a positive impact on the model's perform
 
 #### Top AdaBoost Strategy Returns by Accuracy
 
-1. [AdaBoost Strategy Returns - Short Window: 12, Long Window: 124, Accuracy: 86.23%](https://github.com/jancichocki/Module_14_Challenge/tree/main/Graphs/adaboost_strategy_returns_acc08623_short12_long124.png)
+1. [AdaBoost Strategy Returns - Short Window: 12, Long Window: 124, Accuracy: 86.23%](Graphs/adaboost_strategy_returns_acc08623_short12_long124.png)
 2. [AdaBoost Strategy Returns - Short Window: 12, Long Window: 139, Accuracy: 83.72%](https://github.com/jancichocki/Module_14_Challenge/tree/main/Graphs/adaboost_strategy_returns_acc08372_short12_long139.png)
 3. [AdaBoost Strategy Returns - Short Window: 4, Long Window: 132, Accuracy: 83.57%](https://github.com/jancichocki/Module_14_Challenge/tree/main/Graphs/adaboost_strategy_returns_acc08357_short4_long132.png)
 4. [AdaBoost Strategy Returns - Short Window: 11, Long Window: 137, Accuracy: 83.25%](https://github.com/jancichocki/Module_14_Challenge/tree/main/Graphs/adaboost_strategy_returns_acc08325_short11_long137.png)
