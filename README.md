@@ -70,12 +70,11 @@ Adjusting the training dataset size had a positive impact on the model's perform
 
 #### Top AdaBoost Strategy Returns by Accuracy
 
-1. [AdaBoost Strategy Returns - Short Window: 10, Long Window: 125, Accuracy: 86.85%](https://github.com/jancichocki/Module_14_Challenge/tree/main/Graphs/adaboost_strategy_returns_acc08685_short10_long125.png)
-2. [AdaBoost Strategy Returns - Short Window: 9, Long Window: 139, Accuracy: 84.35%](https://github.com/jancichocki/Module_14_Challenge/tree/main/Graphs/adaboost_strategy_returns_acc08435_short9_long139.png)
-3. [AdaBoost Strategy Returns - Short Window: 8, Long Window: 138, Accuracy: 83.88%](https://github.com/jancichocki/Module_14_Challenge/tree/main/Graphs/adaboost_strategy_returns_acc08388_short8_long138.png)
-4. [AdaBoost Strategy Returns - Short Window: 8, Long Window: 137, Accuracy: 83.57%](https://github.com/jancichocki/Module_14_Challenge/tree/main/Graphs/adaboost_strategy_returns_acc08357_short8_long137.png)
-5. [AdaBoost Strategy Returns - Short Window: 4, Long Window: 129, Accuracy: 82.92%](https://github.com/jancichocki/Module_14_Challenge/tree/main/Graphs/adaboost_strategy_returns_acc08292_short4_long129.png)
-
+1. [AdaBoost Strategy Returns - Short Window: 12, Long Window: 124, Accuracy: 86.23%](https://github.com/jancichocki/Module_14_Challenge/tree/main/Graphs/adaboost_strategy_returns_acc08623_short12_long124.png)
+2. [AdaBoost Strategy Returns - Short Window: 12, Long Window: 139, Accuracy: 83.72%](https://github.com/jancichocki/Module_14_Challenge/tree/main/Graphs/adaboost_strategy_returns_acc08372_short12_long139.png)
+3. [AdaBoost Strategy Returns - Short Window: 4, Long Window: 132, Accuracy: 83.57%](https://github.com/jancichocki/Module_14_Challenge/tree/main/Graphs/adaboost_strategy_returns_acc08357_short4_long132.png)
+4. [AdaBoost Strategy Returns - Short Window: 11, Long Window: 137, Accuracy: 83.25%](https://github.com/jancichocki/Module_14_Challenge/tree/main/Graphs/adaboost_strategy_returns_acc08325_short11_long137.png)
+5. [AdaBoost Strategy Returns - Short Window: 8, Long Window: 133, Accuracy: 83.10%](https://github.com/jancichocki/Module_14_Challenge/tree/main/Graphs/adaboost_strategy_returns_acc08310_short8_long133.png)
 
 #### Top SVC Strategy Returns by Accuracy
 
@@ -114,7 +113,7 @@ The graphical representation of the AdaBoost model's performance plot, stored in
 
 ## Evaluation Report
 
-After thorough testing and analysis, it is evident that the AdaBoost model improved upon the baseline SVC model's performance in specific configurations. The top performance for the SVC model showed an accuracy of 87.48% with a short window of 4 and a long window of 68. In contrast, the AdaBoost model reached a slightly lower level of accuracy 86.85% but with a different configuration of a short window of 10 and a long window of 125, indicating its ability to adapt to a broader range of data windows effectively.
+After thorough testing and analysis, it is evident that the AdaBoost model improved upon the baseline SVC model's performance in specific configurations. The top performance for the SVC model showed an accuracy of 87.48% with a short window of 4 and a long window of 68. In contrast, the AdaBoost model reached a slightly lower level of accuracy 86.85% but with a different configuration of a short window of 12 and a long window of 124, indicating its ability to adapt to a broader range of data windows effectively.
 
 Despite the promising results, one limitation encountered was the dependency on window size settings, which indicates the need for extensive parameter tuning to achieve optimal performance. Furthermore, the slight variations in accuracy between the top-performing configurations underscore the challenge of predicting financial markets with high precision.
 
