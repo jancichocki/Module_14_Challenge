@@ -58,7 +58,7 @@ The graphical representation of the AdaBoost model's performance plot, stored in
 ## Graphs Directory
 [View All Strategy Graphs](https://github.com/jancichocki/Module_14_Challenge/tree/main/Graphs)
 
-![Best AdaBoost Strategy Returns - Short Window: 10, Long Window: 125, Accuracy: 86.85%](https://github.com/jancichocki/Module_14_Challenge/tree/main/Graphs/adaboost_strategy_returns_acc08685_short10_long125.png)
+![AdaBoost Strategy Returns](https://raw.githubusercontent.com/jancichocki/Module_14_Challenge/main/Graphs/adaboost_strategy_returns_acc08685_short10_long125.png)
 
 ## Evaluation Report
 
