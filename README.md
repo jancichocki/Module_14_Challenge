@@ -70,19 +70,20 @@ Adjusting the training dataset size had a positive impact on the model's perform
 
 #### Top AdaBoost Strategy Returns by Accuracy
 
-1. [AdaBoost Strategy Returns - Short Window: 12, Long Window: 124, Accuracy: 86.23%](Graphs/adaboost_strategy_returns_acc08623_short12_long124.png)
-2. [AdaBoost Strategy Returns - Short Window: 12, Long Window: 139, Accuracy: 83.72%](https://github.com/jancichocki/Module_14_Challenge/tree/main/Graphs/adaboost_strategy_returns_acc08372_short12_long139.png)
-3. [AdaBoost Strategy Returns - Short Window: 4, Long Window: 132, Accuracy: 83.57%](https://github.com/jancichocki/Module_14_Challenge/tree/main/Graphs/adaboost_strategy_returns_acc08357_short4_long132.png)
-4. [AdaBoost Strategy Returns - Short Window: 11, Long Window: 137, Accuracy: 83.25%](https://github.com/jancichocki/Module_14_Challenge/tree/main/Graphs/adaboost_strategy_returns_acc08325_short11_long137.png)
-5. [AdaBoost Strategy Returns - Short Window: 8, Long Window: 133, Accuracy: 83.10%](https://github.com/jancichocki/Module_14_Challenge/tree/main/Graphs/adaboost_strategy_returns_acc08310_short8_long133.png)
+1. [AdaBoost Strategy Returns - Short Window: 12, Long Window: 124, Accuracy: 86.23%](https://github.com/jancichocki/Module_14_Challenge/blob/main/Graphs/adaboost_strategy_returns_acc08623_short12_long124.png)
+2. [AdaBoost Strategy Returns - Short Window: 12, Long Window: 139, Accuracy: 83.72%](https://github.com/jancichocki/Module_14_Challenge/blob/main/Graphs/adaboost_strategy_returns_acc08372_short12_long139.png)
+3. [AdaBoost Strategy Returns - Short Window: 4, Long Window: 132, Accuracy: 83.57%](https://github.com/jancichocki/Module_14_Challenge/blob/main/Graphs/adaboost_strategy_returns_acc08357_short4_long132.png)
+4. [AdaBoost Strategy Returns - Short Window: 11, Long Window: 137, Accuracy: 83.25%](https://github.com/jancichocki/Module_14_Challenge/blob/main/Graphs/adaboost_strategy_returns_acc08325_short11_long137.png)
+5. [AdaBoost Strategy Returns - Short Window: 8, Long Window: 133, Accuracy: 83.10%](https://github.com/jancichocki/Module_14_Challenge/blob/main/Graphs/adaboost_strategy_returns_acc08310_short8_long133.png)
 
 #### Top SVC Strategy Returns by Accuracy
 
-1. [1SVC Strategy Returns - Short Window: 4, Long Window: 68, Accuracy: 87.48%](https://github.com/jancichocki/Module_14_Challenge/tree/main/Graphs/svc_strategy_returns_acc08748_svc_short4_long68.png)
-2. [SVC Strategy Returns - Short Window: 10, Long Window: 91, Accuracy: 86.07%](https://github.com/jancichocki/Module_14_Challenge/tree/main/Graphs/svc_strategy_returns_acc08607_svc_short10_long91.png)
-3. [SVC Strategy Returns - Short Window: 3, Long Window: 53, Accuracy: 84.51%](https://github.com/jancichocki/Module_14_Challenge/tree/main/Graphs/svc_strategy_returns_acc08451_svc_short3_long53.png)
-4. [SVC Strategy Returns - Short Window: 4, Long Window: 59, Accuracy: 84.35%](https://github.com/jancichocki/Module_14_Challenge/tree/main/Graphs/svc_strategy_returns_acc08435_svc_short4_long59.png)
-5. [SVC Strategy Returns - Short Window: 12, Long Window: 115, Accuracy: 83.88%](https://github.com/jancichocki/Module_14_Challenge/tree/main/Graphs/svc_strategy_returns_acc08388_svc_short12_long115.png)
+1. [SVC Strategy Returns - Short Window: 4, Long Window: 68, Accuracy: 87.48%](https://github.com/jancichocki/Module_14_Challenge/blob/main/Graphs/svc_strategy_returns_acc08748_svc_short4_long68.png)
+2. [SVC Strategy Returns - Short Window: 10, Long Window: 91, Accuracy: 86.07%](https://github.com/jancichocki/Module_14_Challenge/blob/main/Graphs/svc_strategy_returns_acc08607_svc_short10_long91.png)
+3. [SVC Strategy Returns - Short Window: 3, Long Window: 53, Accuracy: 84.51%](https://github.com/jancichocki/Module_14_Challenge/blob/main/Graphs/svc_strategy_returns_acc08451_svc_short3_long53.png)
+4. [SVC Strategy Returns - Short Window: 4, Long Window: 59, Accuracy: 84.35%](https://github.com/jancichocki/Module_14_Challenge/blob/main/Graphs/svc_strategy_returns_acc08435_svc_short4_long59.png)
+5. [SVC Strategy Returns - Short Window: 12, Long Window: 115, Accuracy: 83.88%](https://github.com/jancichocki/Module_14_Challenge/blob/main/Graphs/svc_strategy_returns_acc08388_svc_short12_long115.png)
+
 
 ### Adjusting SMA Input Features
 
