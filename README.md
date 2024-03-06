@@ -78,7 +78,7 @@ Adjusting the training dataset size had a positive impact on the model's perform
 
 #### Top SVC Strategy Returns by Accuracy
 
-1. [SVC Strategy Returns - Short Window: 4, Long Window: 68, Accuracy: 87.48%](https://github.com/jancichocki/Module_14_Challenge/tree/main/Graphs/svc_strategy_returns_acc08748_svc_short4_long68.png)
+1. [1SVC Strategy Returns - Short Window: 4, Long Window: 68, Accuracy: 87.48%](https://github.com/jancichocki/Module_14_Challenge/tree/main/Graphs/svc_strategy_returns_acc08748_svc_short4_long68.png)
 2. [SVC Strategy Returns - Short Window: 10, Long Window: 91, Accuracy: 86.07%](https://github.com/jancichocki/Module_14_Challenge/tree/main/Graphs/svc_strategy_returns_acc08607_svc_short10_long91.png)
 3. [SVC Strategy Returns - Short Window: 3, Long Window: 53, Accuracy: 84.51%](https://github.com/jancichocki/Module_14_Challenge/tree/main/Graphs/svc_strategy_returns_acc08451_svc_short3_long53.png)
 4. [SVC Strategy Returns - Short Window: 4, Long Window: 59, Accuracy: 84.35%](https://github.com/jancichocki/Module_14_Challenge/tree/main/Graphs/svc_strategy_returns_acc08435_svc_short4_long59.png)
