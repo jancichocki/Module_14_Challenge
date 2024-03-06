@@ -1,5 +1,9 @@
 # Machine Learning Trading Bot
 
+## Python Notebook
+
+[Machine Learning Trading Bot](https://github.com/jancichocki/Module_14_Challenge/blob/main/machine_learning_trading_bot_clean.ipynb)
+
 ## Overview
 
 This project aims to enhance an existing algorithmic trading system by integrating machine learning models that adapt to new data, ensuring the firm's competitive advantage in the market. The project evaluates the baseline performance using a Support Vector Machine (SVM) classifier and tunes the algorithm by adjusting training dataset sizes and Simple Moving Average (SMA) input features. Further, it explores the performance of an alternative machine learning classifier, AdaBoost, for potential improvements in trading strategies.
