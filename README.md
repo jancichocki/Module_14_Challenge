@@ -60,6 +60,8 @@ The graphical representation of the AdaBoost model's performance plot, stored in
 
 ![AdaBoost Strategy Returns](https://github.com/jancichocki/Module_14_Challenge/blob/main/Graphs/adaboost_strategy_returns_acc08685_short10_long125.png)
 
+![AdaBoost Strategy Returns](https://github.com/jancichocki/Module_14_Challenge/blob/main/Graphs/adaboost_strategy_returns_acc0822_short75_long140.png)
+
 ## Evaluation Report
 
 After thorough testing and analysis, it is evident that the AdaBoost model improved upon the baseline SVC model's performance in specific configurations. The top performance for the SVC model showed an accuracy of 87.48% with a short window of 4 and a long window of 68. In contrast, the AdaBoost model reached a slightly lower level of accuracy 86.85% but with a different configuration of a short window of 10 and a long window of 125, indicating its ability to adapt to a broader range of data windows effectively.
