@@ -58,8 +58,7 @@ The graphical representation of the AdaBoost model's performance plot, stored in
 ## Graphs Directory
 [View All Strategy Graphs](https://github.com/jancichocki/Module_14_Challenge/tree/main/Graphs)
 
-![AdaBoost Strategy Returns](https://github.com/jancichocki/Module_14_Challenge/blob/main/Graphs/adaboost_strategy_returns_acc08685_short10_long125.png)
-
+## Best AdaBoost Graph
 ![AdaBoost Strategy Returns](https://github.com/jancichocki/Module_14_Challenge/blob/main/Graphs/adaboost_strategy_returns_acc0822_short75_long140.png)
 
 ## Evaluation Report
