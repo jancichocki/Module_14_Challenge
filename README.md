@@ -94,7 +94,7 @@ The best set of parameters found was a short window of 4 days and a long window 
 
 ## Evaluation of a New Machine Learning Classifier
 
-The AdaBoost classifier was integrated and compared against the baseline SVC model. The AdaBoost model exhibited better performance in terms of accuracy. When observing the top accuracy scores, the SVC model achieved its best with an accuracy of 87.48% at a short window of 4 and a long window of 68. In contrast, the AdaBoost model matched this accuracy but with a significantly different configuration, demonstrating its flexibility and robustness across different market conditions.
+The AdaBoost classifier was integrated and compared against the baseline SVC model. The SVC model exhibited better performance in terms of accuracy. When observing the top accuracy scores, the SVC model achieved its best with an accuracy of 87.48% at a short window of 4 and a long window of 68. In contrast, the AdaBoost model had sightly lower accuracy but with a significantly different configuration, demonstrating its flexibility and robustness across different market conditions.
 
 Backtesting the AdaBoost model revealed that it adapts more effectively to market changes compared to the SVC model. This adaptability is evident in the AdaBoost's consistent performance across a wider range of window settings, suggesting a potential for better generalization to unseen market scenarios.
 
@@ -103,7 +103,6 @@ Backtesting the AdaBoost model revealed that it adapts more effectively to marke
 
 ## SVC Model Strategy Results
 [Open strategy_results_svc_long_list.csv](https://github.com/jancichocki/Module_14_Challenge/blob/main/strategy_results_svc_long_list.csv)
-
 
 The graphical representation of the AdaBoost model's performance plot, stored in the `Graphs` subdirectory, visually underscores its superior strategy returns over the baseline SVC model. Through these plots, the impact of the AdaBoost model's accuracy on trading outcomes can be clearly observed, providing a compelling case for its application in enhancing algorithmic trading strategies.
 
@@ -127,8 +126,4 @@ The graphs stored in the `Graphs` subdirectory visually illustrate these finding
 ## Conclusions
 
 This exploration into machine learning-assisted trading algorithms underlines the importance of model selection, parameter tuning, and the need for continuous evaluation against new market data. Machine learning offers significant opportunities to automate and optimize trading strategies, ultimately contributing to more robust and adaptable financial advisory services.
-
----
-
-**To Do**: Remember to adjust the specifics (like model evaluation results, specific parameters used, etc.) based on the outcomes of your project.
 
